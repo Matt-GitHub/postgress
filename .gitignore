@@ -107,4 +107,4 @@ dist
 .vscode-test
 
 # secrets
-config 
+config/
