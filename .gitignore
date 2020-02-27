@@ -107,4 +107,4 @@ dist
 .vscode-test
 
 # secrets should not be on github
-config/
+config1/
