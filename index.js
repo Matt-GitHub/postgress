@@ -1,7 +1,7 @@
 const express = require("express");
 const helmet = require("helmet");
 const cors = require("cors");
-const port = 2390;
+const port = process.env.PORT || 2390;
 const userRouter = require("./api/index");
 const server = express();
 
